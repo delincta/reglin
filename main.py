@@ -1,4 +1,4 @@
-# Copyright (c) 2022 Copyright Mathis POTEAU (delincta) All Rights Reserved.
+# Copyright (c) 2020 Copyright Mathis POTEAU (delincta) All Rights Reserved.
 # coding: utf-8
 
 """ On va calucluer une régression linéaire, on va se baser sur la formule:
